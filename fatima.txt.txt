@@ -4,3 +4,4 @@ ADNSU 2017-2021 bakalavr
 ADNSU master 2021- davam edir
 CODE ACADEMY 2023
 p334
+Full Stack Developer
